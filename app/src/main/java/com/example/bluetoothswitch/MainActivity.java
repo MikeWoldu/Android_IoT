@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         // If a bluetooth device has been selected from SelectDeviceActivity
         deviceName = getIntent().getStringExtra("deviceName");
         if (deviceName != null) {
-            // Get the device address to make BT Connection
+            // Get the device address to make BT Connect
             deviceAddress = getIntent().getStringExtra("deviceAddress");
             // Show progree and connection status
             toolbar.setSubtitle("Connecting to " + deviceName + "...");
