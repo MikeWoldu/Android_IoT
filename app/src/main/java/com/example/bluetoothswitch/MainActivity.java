@@ -28,6 +28,10 @@ import java.util.UUID;
 
 import static android.content.ContentValues.TAG;
 
+
+//this is a test to see if my branch and account work
+
+
 public class MainActivity extends AppCompatActivity {
 
     private String deviceName = null;
