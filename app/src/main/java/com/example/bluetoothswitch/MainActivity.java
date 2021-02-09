@@ -31,6 +31,7 @@ import static android.content.ContentValues.TAG;
 
 //this is a test to see if my branch and account work
 //new test test test
+//new comment from impleneting Bluetooth bracnh
 
 
 public class MainActivity extends AppCompatActivity {
